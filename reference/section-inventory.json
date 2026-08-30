@@ -1,0 +1,27 @@
+{
+  "capturedAt": "2026-08-30T07:33:45.723Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "sections": [
+    {
+      "index": 0,
+      "tag": "header",
+      "id": "",
+      "className": "menubar",
+      "top": 0,
+      "height": 53,
+      "text": "heyclickyfeaturespricingtrustchangelogcareersbuildspaceiPod Touchfarza’s airpods1:03 PMget heyclicky"
+    },
+    {
+      "index": 1,
+      "tag": "footer",
+      "id": "",
+      "className": "footer sec-dim",
+      "top": 7175,
+      "height": 592,
+      "text": "productfeaturespricingchangelogtry itresourcestrustprivacysupportconnectinstagramx (twitter)linkedinyoutubedisclaimer*heyclicky only sees your screen when you press the hotkey - sc"
+    }
+  ]
+}

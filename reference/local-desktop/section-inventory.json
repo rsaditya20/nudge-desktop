@@ -1,0 +1,82 @@
+{
+  "capturedAt": "2026-08-30T07:37:24.061Z",
+  "target": "http://127.0.0.1:5173",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "sections": [
+    {
+      "index": 0,
+      "tag": "header",
+      "id": "",
+      "className": "topbar",
+      "top": 0,
+      "height": 56,
+      "text": "nudgenotesfeedbackpricingfaqget nudge"
+    },
+    {
+      "index": 1,
+      "tag": "section",
+      "id": "",
+      "className": "hero",
+      "top": 56,
+      "height": 730,
+      "text": "▰^ ω ^nudge12:32 PMan ai buddy for your desktopnudgea tiny companion that helps you get unstuckdownload for macwindows waitlistmacOS 14.2 or higher · 100% free to starthellomy name"
+    },
+    {
+      "index": 2,
+      "tag": "section",
+      "id": "demos",
+      "className": "demos",
+      "top": 786,
+      "height": 1118,
+      "text": "nudgefinally do the thingfrom first to double-click, jump into any task, ask questions, and keep moving without breaking your flow.nudge — helperfresh ideas, right this way✦•••••••"
+    },
+    {
+      "index": 3,
+      "tag": "section",
+      "id": "notes",
+      "className": "notes",
+      "top": 1904,
+      "height": 410,
+      "text": "the dreamwe all have access to the same models, yet very few of us unlock their full power!we just believe it’s an interface problem. let’s make computers feel more like they’re on"
+    },
+    {
+      "index": 4,
+      "tag": "section",
+      "id": "feedback",
+      "className": "feedback",
+      "top": 2314,
+      "height": 639,
+      "text": "feedbackthey use it everyday they use it everyday they use it everyday sam@maker···this is the most fun i’ve had learning a new tool in ages.2:14 PM · 14 likes william wang···cool "
+    },
+    {
+      "index": 5,
+      "tag": "section",
+      "id": "pricing",
+      "className": "pricing",
+      "top": 2953,
+      "height": 620,
+      "text": "pricingnudge, your waythree simple plans, cancel anytime.monthlyyearly -20%freesee what the fuss is about.$0per month, billed monthlystart free ↗includes● 25 talk messages a month●"
+    },
+    {
+      "index": 6,
+      "tag": "section",
+      "id": "faq",
+      "className": "faq",
+      "top": 3573,
+      "height": 830,
+      "text": "faqfrequently asked questionswhat to know about nudge, privacy, and getting started.what is nudge?+a desktop buddy that sees what you see when you ask, then helps you learn, make, "
+    },
+    {
+      "index": 7,
+      "tag": "footer",
+      "id": "",
+      "className": "",
+      "top": 4403,
+      "height": 270,
+      "text": "productfeaturespricingfeedbacktry itresourcestrustprivacysupportconnectinstagramx (twitter)linkedinyoutubedisclaimernudge only sees your screen when you press the hotkey.© 2026 Nud"
+    }
+  ]
+}
